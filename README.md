@@ -6,4 +6,6 @@ QRCode Example
 2. Go to the project folder
 3. Run the following command (Ensure python 2.x is installed)
 
-	python -m SimpleHTTPServer
+```
+python -m SimpleHTTPServer
+```
